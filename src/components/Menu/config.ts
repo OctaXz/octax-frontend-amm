@@ -70,15 +70,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/netdefi/",
+        href: "https://github.com/octaxz/",
       },
       {
         label: "Docs",
-        href: "https://netdefi.gitbook.io/net-finance/",
+        href: "https://octax.gitbook.io/octax/",
       },
       {
         label: "Blog",
-        href: "https://netfinance.medium.com/",
+        href: "https://octax.medium.com/",
       },
     ],
   },
